@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehdi-Rastgar
+- 👋 Hi, I’m @Mehdi-Dashty
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python language
 
